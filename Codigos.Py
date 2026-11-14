@@ -68,8 +68,7 @@ print("3 - Interpolação (f-strings)")
 print(f"Meu nome é {nome} e tenho {idade} anos e altura {altura:.3f}.", "\n")
 
 print("4 - Interpolação (f-strings) atribuindo a uma variável")
-#variavel
-#\/
+
 frase = f"Meu nome é {nome} e tenho {idade} anos e altura {altura:.3f}"
 
 print(frase, "\n")
